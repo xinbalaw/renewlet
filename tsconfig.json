@@ -1,0 +1,23 @@
+{
+  "files": [],
+  "references": [
+    {
+      "path": "./packages/shared"
+    },
+    {
+      "path": "./apps/worker"
+    },
+    {
+      "path": "./apps/web"
+    },
+    {
+      "path": "./apps/website"
+    },
+    {
+      "path": "./tsconfig.scripts.json"
+    },
+    {
+      "path": "./tsconfig.playwright.json"
+    }
+  ]
+}
